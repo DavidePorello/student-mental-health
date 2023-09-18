@@ -1,5 +1,5 @@
 # student-mental-health
-Paper in progress: "Early Detection of Emotional Issues from High-School Academic Performance Data"
+ICMLA 23 Paper: "Early Detection of Mental and Behavioral Health Issues from High-School Academic Performance"
 
 ## Tutorial
 
